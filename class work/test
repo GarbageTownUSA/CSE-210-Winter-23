@@ -7,11 +7,11 @@ class Program
         int age = 34;
         if (age >= 18)
         {
-            System.Console.WriteLine("Yes you can vote");
+            System.Console.WriteLine("Yes you can vote")
         }
         else
         {
-            System.Console.WriteLine("No you can not vote");
+            System.Console.WriteLine("No you can not vote")
         }
     }
 }
